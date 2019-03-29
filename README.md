@@ -1,6 +1,6 @@
 # `twitfol.go` and `folgat.sh`
 
-`twitfol.go` is a small program for getting you the list of your followers on stdout.
+`twitfol.go` is a small program for getting you the list of your Twitter followers on stdout.
 
 It prints the list in format `<screenname><tab><userid>`.
 This behavior can be changed in the code, there are many other properties that can be chosen.
